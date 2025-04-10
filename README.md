@@ -18,11 +18,11 @@ substitution_cipher.c    # Main source code file
 
 ##  How It Works
 
-- **Encoding Function:**
+- Encoding Function:
   - Shifts each letter in the plaintext forward by the given key.
-- **Decoding Function:**
+- Decoding Function:
   - Reverses the shift to retrieve the original text.
-- Handles both **uppercase** and **lowercase** characters.
+- Handles both uppercase and lowercase characters.
 - Non-alphabetic characters (e.g., `!`, `@`, `#`, spaces) are preserved.
 
 ##  Example
@@ -58,10 +58,3 @@ cipher.exe
 ##  License
 
 This project is open-source and free to use for educational or personal purposes.
-
----
-
-Happy coding! 🚀
-```
-
-Let me know if you'd like a `.md` file output or want this added to a GitHub repository layout.
