@@ -12,11 +12,7 @@ A substitution cipher is a method of encryption by which each letter in the plai
 For example, with a key of `3`:
 ```
 A → D, B → E, C → F, ..., X → A, Y → B, Z → C
-```
 
-##  File Structure
-
-```
 substitution_cipher.c    # Main source code file
 ```
 
